@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+g4f
+requests
+aiohttp
+fake-useragent
+tls_client
+certifi
+telebot
